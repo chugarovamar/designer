@@ -1,2 +1,2 @@
 # designer
-personal site for designer
+personal site for designer (pet project)
